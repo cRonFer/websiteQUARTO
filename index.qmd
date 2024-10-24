@@ -1,26 +1,20 @@
 ---
-title: "Finley Malloc"
+title: "Cristina Ronquillo website"
 about:
   template: trestles
-  image: avatar.jpg
+  image: yo.jpg
   links:
     - icon: envelope
       # text: email
-      href: "mailto: test@example.com"
-    - icon: mastodon
-      href: https://joinmastodon.org
-    - text: "{{< iconify fa6-brands bluesky title='BlueSky'>}}"
-      href: https://bsky.app
+      href: "mailto: cristinaronquillo@mncn.csic.es"
     - text: "{{< iconify fa6-brands x-twitter title='Twitter'>}}"
-      href: https://x.com
+      href: https://x.com/crisRonquillo91
     - icon: github
-      href: https://github.com
+      href: https://github.com/cRonFer
     - icon: linkedin
-      href: https://linkedin.com/
-    - text: "{{< iconify academicons google-scholar-square size=1.2em title='Scholar'>}}"
-      href: https://scholar.google.com
+      href: https://linkedin.com/CristinaRonquillo
     - text: "{{< iconify fa6-brands orcid size=1.2em title='ORCID' >}}"
-      href: https://orcid.org/
+      href: https://orcid.org/my-orcid?orcid=0000-0001-5945-5147
     # - icon: twitter
     #   text: twitter
     #   href: https://twitter.com
@@ -28,19 +22,19 @@ about:
     #   text: Github
     #   href: https://github.com
 ---
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am an ecologist interested in Ecoinformatics, macroecology, Geographic Information Systems and biodiversity databases. Her research interests include the assessment of data quality and information gaps and how it affects our biodiversity knowledge. She is currently working as data technician in NICED project at MNCN. She was research assistant at SCENIC and UNITED, and participated in SoilSkin and Taxon-Time projects.
 
 ## Education
+Universidad Autónoma de Madrid & Universidad Complutense| Madrid, ES
+Máster en Ecología | Sept 2013 - Enero 2015
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Universidad Rey Juan Carlos | Madrid, ES
+Grado en Biología | Sept 2009 - June 2013
 
 ## Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Museo Nacional de Ciencias Naturales - CSIC | Research Assistant | May 2021 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+Universidad de Alcalá de Henares | Research Assistant | May 2020 - May 2021
+
+Museo Nacional de Ciencias Naturales - CSIC | Research Assistant | May 2018 - present
