@@ -7,7 +7,7 @@ website:
   title: "Cristina Ronquillo"
   description: "I am a data scientist"
   # site-url: https://pakillo.github.io/academic-website-template-Quarto
-  repo-url: https://github.com/cRonFer/academic-website-template-Quarto
+  repo-url: https://github.com/cRonFer/websiteQUARTO
   # favicon: logo.png
   twitter-card: true
   #   creator: "@handle"
